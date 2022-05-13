@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Exercício React-Redux (Simples)</h1>
+      <h1>Exercício React-Redux simples</h1>
       <div className="linha">
         <Intervalo></Intervalo>
       </div>

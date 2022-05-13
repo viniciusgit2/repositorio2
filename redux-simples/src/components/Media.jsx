@@ -10,7 +10,7 @@ function Media(props) {
     <Card title="Média dos Números" green>
       <div>
         <span>
-          <span>Resultado: </span>
+          <span>Resultado é: </span>
           <strong>{(max + min) / 2}</strong>
         </span>
       </div>

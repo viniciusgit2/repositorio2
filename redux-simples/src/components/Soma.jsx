@@ -9,7 +9,7 @@ function Soma(props) {
         <Card title="Soma dos Números" blue>
             <div>
                 <span>
-                    <span>Resultado: </span>
+                    <span>Resultado é: </span>
                     <strong>{ max + min }</strong>
                 </span>
             </div>

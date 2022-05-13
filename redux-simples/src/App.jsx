@@ -4,7 +4,7 @@ import { ReactDOM } from 'react'
 
  ReactDOM.render(
 
-    "ola react",
+    "feito react",
     document.getElementById("root")
  )
 

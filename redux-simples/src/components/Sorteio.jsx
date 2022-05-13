@@ -10,7 +10,7 @@ function Sorteio(props) {
     <Card title="Sorteio de um Números" purple>
       <div>
         <span>
-          <span>Resultado: </span>
+          <span>Resultado é: </span>
           <strong>{aleatorio}</strong>
         </span>
       </div>
